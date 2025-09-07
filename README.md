@@ -41,7 +41,7 @@ This dataset includes attributes like average area income, house age, number of 
 ## Results & Insights
 Model performance: RMSE of approximately $100,000 (as of August 25, 2025).
 
-### Likely findings:
+### Findings:
 - Higher income areas and larger house sizes tend to associate with increased house prices.
 - Model may struggle with high-variance regions or outlier communities—worth exploring residuals.
 
